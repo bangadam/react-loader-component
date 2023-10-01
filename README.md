@@ -47,11 +47,11 @@
 
 ## :dart: About
 
-Describe your project
+React Loader Component is a simple component that can be used to show a loading state for any component.
 
 ## :sparkles: Features
 
-React Loader Component is a simple component that can be used to show a loading state for any component.
+:heavy_check_mark: Loader Component;\
 
 ## :rocket: Technologies
 
